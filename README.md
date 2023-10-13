@@ -1,6 +1,6 @@
 # DFS-Tools-Companion
 
-Welcome to `DFS-Tools-Companion`! This is a personal collection of utilities to complement the main [DFS-Tools](https://github.com/chanzer0/). These utilities are a personal collection, created to complement the main tools. They are based on my own experiences and use-cases and may be beneficial for some users.
+Welcome to `DFS-Tools-Companion`! This is a personal collection of utilities to complement the main [DFS-Tools](https://github.com/chanzer0/) and [AceMind](https://acemind.io/). These utilities are a personal collection, created to complement the main tools. They are based on my own experiences and use-cases and may be beneficial for some users.
 
 
 ## Directory Overview
