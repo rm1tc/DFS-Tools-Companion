@@ -12,6 +12,7 @@ This directory contains scripts designed to format and prepare data for use with
 - The scripts require the [Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html) module `pip install pandas` 
 - The scripts expect specific CSV files to be located in the same directory. If placed elsewhere, you'll need to adjust the file paths within the script accordingly.
 - The scripts have been tested with the listed projections. No column renaming is required. Only the CSV file needs to be renamed. 
+
 The scripts utilize the following file paths:
 
 ```
