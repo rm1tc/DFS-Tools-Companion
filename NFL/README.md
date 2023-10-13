@@ -4,8 +4,8 @@ This directory contains scripts designed to format and prepare data for use with
 
 ## Scripts
 
-1. **acemind_files_DK.py**: Updates the AceMind DraftKings NFL Template [CLASSIC] with the users Stokastic, PaydirtDFS or ETR projections.
-2. **acemind_files_FD.py**: *Coming soon*
+1. **acemind_files_DK.py**: Updates the AceMind DraftKings NFL Template [CLASSIC] with the users Stokastic, ETR or PaydirtDFS projections.
+2. **acemind_files_FD.py**: Updates the AceMind Fanduel NFL Template [CLASSIC] with the users Stokastic, ETR or PaydirtDFS projections.
 
 ## Pre-requisites
 
