@@ -49,6 +49,7 @@ The name mismatch will need to be corrected in the projections.csv or the in the
 ```
 # Name replacements for known mismatches
 NAME_REPLACEMENTS = {
+    # 'incorrect_name': 'correct_name',
     'Tony Jones': 'Tony Jones Jr.', 
     # Add more as needed
 }
