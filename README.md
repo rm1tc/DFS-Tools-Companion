@@ -6,7 +6,7 @@ Welcome to `DFS-Tools-Companion`! This is a personal collection of utilities to 
 ## Directory Overview
 
 - **[MLB](./MLB/)**: Utilities and scripts for use with the [MLB-DFS-Tools](https://github.com/chanzer0/MLB-DFS-Tools)
-- **[NFL](./NFL/)**: Utilities and scripts for use with the [NFL-DFS-Tools](https://github.com/chanzer0/NFL-DFS-Tools)
+- **[NFL](./NFL/)**: Utilities and scripts for use with the [NFL-DFS-Tools](https://github.com/chanzer0/NFL-DFS-Tools) and [AceMind](https://acemind.io/)
 
 ## Getting Started
 
