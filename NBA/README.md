@@ -1,4 +1,4 @@
-# DFS-Tools-Companion/NFL/ README
+# DFS-Tools-Companion/NBA/ README
 
 This directory contains scripts designed to format and prepare data for use with [AceMind](https://acemind.io/). These utilities are a personal collection, created to complement the main tools. They are based on my own experiences and use-cases and may be beneficial for some users.
 
@@ -16,6 +16,7 @@ This directory contains scripts designed to format and prepare data for use with
 - The scripts have been tested with the listed projections. No column renaming is required. Only the CSV file needs to be renamed. 
 
 The scripts utilize the following file paths:
+
 **acemind_files_DK.py** & **acemind_files_FD.py**
 ```
 IMPORT_PATHS = {
