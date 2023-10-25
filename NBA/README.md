@@ -5,9 +5,9 @@ This directory contains scripts designed to format and prepare data for use with
 ## Scripts
 
 1. **acemind_files_DK.py**: Updates the AceMind DraftKings NBA Template [CLASSIC] with the users ETR or PaydirtDFS projections.
-2. **stokastic_acemind_files_DK.py**: Updates the AceMind DraftKings NBA Template [CLASSIC] with the users Stokastic files (NBA DK Boom Bust.csv & NBA DK Projections.csv).
+2. **stokastic_acemind_files_DK.py**: Updates the AceMind DraftKings NBA Template [CLASSIC] with the users Stokastic files ("NBA DK Boom Bust.csv" & "NBA DK Projections.csv").
 3. **acemind_files_FD.py**: Updates the AceMind Fanduel NBA Template [CLASSIC] with the users ETR or PaydirtDFS projections.
-4. **stokastic_acemind_files_FD.py**: Updates the AceMind Fanduel NBA Template [CLASSIC] with the users Stokastic files (NBA FD Boom Bust.csv & NBA FD Projections.csv).
+4. **stokastic_acemind_files_FD.py**: Updates the AceMind Fanduel NBA Template [CLASSIC] with the users Stokastic files ("NBA FD Boom Bust.csv" & "NBA FD Projections.csv").
 
 ## Pre-requisites
 
